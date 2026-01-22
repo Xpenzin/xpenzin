@@ -7,7 +7,9 @@
 </p>
 
 - 💪 I'm very passionate about cybersecurity and hope to get into PenTesting or Malware Analysis
+
 - ✨ I’m currently working on getting certified for CompTIA Networking+ and Security+
+
 - 🌀 I’m currently learning Python, JS, and a bit of HTML
 
 # Languages:
