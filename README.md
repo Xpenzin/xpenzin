@@ -1,6 +1,6 @@
-<h2 align="center" style="font-size:36px;">Hi there, Im Adarsh</h2>
+<h1 align="center" style="font-size:56px;line-height:1;">Hi there, Im Adarsh</h1>
 
-<p align="center" style="margin-top:6px;"><small style="font-size:15px;">I'm a 16 yro Cybersecurity student</small></p>
+<p align="center" style="margin-top:6px;"><strong style="font-size:20px;">I'm a 16 yro Cybersecurity student</strong></p>
 
 <p align="center">
     <img src="https://i.pinimg.com/564x/6d/5c/50/6d5c50f6354505b3e67855f4f18d8e3f.jpg" alt="banner" width="120">
