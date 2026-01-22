@@ -3,7 +3,7 @@
 <p align="center"><small>I'm a 16 yro Cybersecurity student</small></p>
 
 <p align="center">
-	<img src="https://i.pinimg.com/564x/6d/5c/50/6d5c50f6354505b3e67855f4f18d8e3f.jpg" alt="banner" style="max-width:80px;width:100%;height:auto;">
+	<img src="https://i.pinimg.com/564x/6d/5c/50/6d5c50f6354505b3e67855f4f18d8e3f.jpg" alt="banner" width="40">
 </p>
 
 - 💪 I'm very passionate about cybersecurity and hope to get into PenTesting or Malware Analysis
