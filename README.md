@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, Im Adarsh
+
+<p align="center">
+	<img src="https://i.pinimg.com/564x/6d/5c/50/6d5c50f6354505b3e67855f4f18d8e3f.jpg" alt="banner">
+</p>
 
 - ✨ I’m currently working on getting certified for CompTIA Networking+ and Security+
 - 🌀 I’m currently learning Python, JS, and a bit of HTML
