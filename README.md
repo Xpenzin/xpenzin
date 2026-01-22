@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- ✨ I’m currently working on getting certified for CompTIA Networking+ and Security+
+- 🌀 I’m currently learning Python, JS, and a bit of HTML
 
 
 # Tech Stack:
