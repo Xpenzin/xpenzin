@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, Im Adarsh</h1>
+<h1 align="center">Hi there, I'am Adarsh</h1>
 
-## <div align="center">I'm a 16 yro Cybersecurity student</div>
+## <div align="center">I'am a 16 yro Cybersecurity student</div>
 
 <p align="center">
     <img src="https://i.pinimg.com/564x/6d/5c/50/6d5c50f6354505b3e67855f4f18d8e3f.jpg" alt="banner" width="200">
