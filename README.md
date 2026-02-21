@@ -2,7 +2,7 @@
 
 ## <div align="center">I'am a 16 yro Cybersecurity student</div>
 
-About me:
+## About me:
 - 💪 I'm very passionate about cybersecurity and hope to get into PenTesting or Malware Analysis
 
 - ✨ I’m currently working on getting certified for CompTIA Networking+ and Security+
