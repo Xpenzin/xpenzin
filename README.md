@@ -2,10 +2,6 @@
 
 ## <div align="center">I'am a 16 yro Cybersecurity student</div>
 
-<p align="center">
-    <img src="https://i.pinimg.com/564x/6d/5c/50/6d5c50f6354505b3e67855f4f18d8e3f.jpg" alt="banner" width="200">
-</p>
-
 - 💪 I'm very passionate about cybersecurity and hope to get into PenTesting or Malware Analysis
 
 - ✨ I’m currently working on getting certified for CompTIA Networking+ and Security+
