@@ -7,7 +7,7 @@
 
 -  I’m currently working on getting certified for CompTIA Networking+ and Security+ (will try to work my way into more...)
 
--  I’m currently learning Python, C++, and a bit of HTML.
+-  I’m learning Python, C++, and a bit of HTML.
 
 -  I enjoy reading other people's projects too (especially if they're networking-related)
 
